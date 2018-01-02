@@ -1,0 +1,9 @@
+<component name="ArtifactManager">
+  <artifact type="jar" build-on-make="true" name="PlayerList">
+    <output-path>$USER_HOME$/Desktop/TheVoidNetwork/Testing Server/plugins</output-path>
+    <root id="archive" name="PlayerList.jar">
+      <element id="module-output" name="PlayerList" />
+      <element id="file-copy" path="$PROJECT_DIR$/src/plugin.yml" />
+    </root>
+  </artifact>
+</component>

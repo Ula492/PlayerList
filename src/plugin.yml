@@ -1,0 +1,6 @@
+name: PlayerList
+main: com.ula.PlayerList.Main
+version: 1.0
+author: Ula
+description: Hover over the player list to see a nice suprise!
+depend: [ProtocolLib]
